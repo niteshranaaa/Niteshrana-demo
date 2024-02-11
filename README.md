@@ -1,3 +1,3 @@
 # Niteshrana-demo
 welcome
-Author - Shradha Khapra
+Author - Nitesh Rana
